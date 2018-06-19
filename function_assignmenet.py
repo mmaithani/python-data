@@ -16,7 +16,7 @@
 # # def perfect():
 # #  for n in range(6,1000):
 # #   sum1 = 0
-# #   for i in range(1, n):
+##  for i in range(1, n):
 # #       if(n % i == 0):
 # #           sum1 = sum1 + i
 # #   if (sum1 == n):
@@ -32,4 +32,24 @@
 
 
 #Q.4_ Write a function to calculate power of a number raised to other ( a^b ) using recursion.
+# total=1
+# num=int(input("enter the number"))
+# power = int(input("enter the power of number"))
+# if power > 1:
+#     total = num ** num
+#     power=power-1
+# print(total)
+
+#Q.5 write factorial of any number
+
+# num=int(input("enter number"))
+# fact=1
+# if num<0:
+#     print("its negative number")
+# elif num==0:
+#     print("factorial of 0 is 1")
+# else:
+#     for i in range(1,num+1):
+#        fact=fact*i
+#     print("factorial is=",fact)
 
