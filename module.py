@@ -13,8 +13,63 @@
 #import time
 #print(time.asctime())
 
-#ques 3:extract mont from time
+#ques 3:extract month from time
 
-import datetime
-d=datetime.date.today()
-print(d.month)
+#import datetime
+#from datetime import date
+#d=date.today()
+#print(d.month)
+
+#ques 4: extract day from time
+
+#import datetime
+#print(datetime.date.today().day)
+
+#ques.5: Extract date (ex : 11 in 11/01/2021) from the time.
+
+#import datetime
+#t=datetime.date.today()
+#print (t.day)
+
+#ques.6: extract time using local time
+
+#import datetime 
+#import time
+#print(time.localtime())
+#print(datetime.datetime.time(datetime.datetime.now()))
+
+#ques.7: find faCTORIAL
+
+#import math
+#s=int(input("enter number"))
+#print(math.factorial(s))
+
+#ques.8: find the gcd of number
+
+#import math
+#m=int(input("enter first number"))
+#n=int(input("enter 2nd"))
+#print(math.gcd(m,n))
+
+#ques.9: use os mudule
+
+#import os
+#print(os.name)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
