@@ -1,23 +1,11 @@
 #delete dublictae from list
-# def listt(l):
-# 	final=[]
-# 	for a in l:
-# 		if a not in final:
-# 			final.append(a)
-			
-# 	return final
-# s=input()
-# numbers=list(map(int,s.split()))
-# listt([s])
 
-#li=[]
-# for i  in range(0,10):
-# 	print("c")
-# 	a=(input("print any number"))
-li=[]
-t=()
-num=(input("enter the values saparated with comma"))								
-print(num)
-li=num.split(',')
-t=tuple(li)															#convert list in tuple and store in tuple t
-print(t)
+def listt(l):
+	final=[]
+	for a in l:
+		if a not in final:
+			final.append(a)		
+	return final
+print(listt([1,2,2,2,4,4,5,5,6,8,9,3,2,5,4,4,4,5,5,5,9]))
+
+
