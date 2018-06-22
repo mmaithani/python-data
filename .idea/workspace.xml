@@ -590,7 +590,7 @@
       <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" weight="0.32986626" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="8" />
-      <window_info active="true" anchor="bottom" x="687" y="23" width="675" height="741" id="Run" order="10" side_tool="true" visible="true" weight="0.26597324" />
+      <window_info anchor="bottom" x="687" y="23" width="675" height="741" id="Run" order="10" side_tool="true" weight="0.26597324" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32986626" />
       <window_info id="Favorites" order="2" side_tool="true" />

@@ -16,10 +16,10 @@
 # Condition required :- at any case all validations must be provided. Program will not throw any kind of error in any case...
 
 print("hi ! i am your bot")
-g=input("Enter your gender if male  press m/M and for female press f/F=>"))
- if g == m:
-    name=input("Hi! Mr. whats your good  name=>")
-    print("great ",name)
+g=input('Enter your gender if male  press m/M and for female press f/F=>')
+if g==m:
+	name_m=input('Hi! Mr. whats your good  name=>')
+    print("great ",name_m)
 else:
     name_f=input("hello young lady can i get your name=>")
     print("ok ",name_f)
