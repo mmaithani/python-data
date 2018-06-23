@@ -1,32 +1,31 @@
-object oriented programming(assignment)
+# object oriented programming(assignment)
 
-1.requirement gathering
-2. requirement analysis
-3.Designing
+# 1.requirement gathering
+# 2. requirement analysis
+# 3.Designing
 
-for example : we can take blueprint of house as a class.
-             and house made by that blueprint(class) is object,although all the houses(object) are same
-             and the person who come to house for living is function of object
-             if houses are not made still the blueprint is valid for further use
-             so class remain individually
-oop feature
- class
- object
- inheritance
- abstraction
- encapsulation
- polymorphism
+# for example : we can take blueprint of house as a class.
+#              and house made by that blueprint(class) is object,although all the houses(object) are same
+#              and the person who come to house for living is function of object
+#              if houses are not made still the blueprint is valid for further use
+#              so class remain individually
+# oop feature
+#  class
+#  object
+#  inheritance
+#  abstraction
+#  encapsulation
+#  polymorphism
 
-which do not use thhese type of feature is call object based programming
-......................................................................................................................
+# which do not use thhese type of feature is call object based programming
+# ......................................................................................................................
 
 
 
- ques.1: Create a Circle Class and Initialize it with Radius.
-
-Ans.1
-another method
- class Circle:
+#Ques.1: Create a Circle Class and Initialize it with Radius.
+#Ans.1 :
+# another method
+class Circle:
     def m(self,r):
         self.t=r
     def area(self):

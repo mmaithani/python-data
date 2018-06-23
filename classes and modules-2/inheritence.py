@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #Q.1- Create a class Animal as a base class and define 
 #method animal_attribute. Create another class Tiger 
 #which is inheriting Animal and access the base class method
@@ -12,7 +12,7 @@ class tiger(animal):
 a=tiger()
 a.animal_attribute()
 
-=======
+
 #Q.1- Create a class Animal as a base class and define 
 #method animal_attribute. Create another class Tiger 
 #which is inheriting Animal and access the base class method
@@ -26,4 +26,3 @@ class tiger(animal):
 a=tiger()
 a.animal_attribute()
 
->>>>>>> a8ba5870d87fb32af52456ff742780a196045138

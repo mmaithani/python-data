@@ -4,7 +4,7 @@
 class A:
 	def show(self):
 		print("class a")
-class B(a):
+class B(A):
 	def show(self):
 		print("class b")
 def display(obj):
