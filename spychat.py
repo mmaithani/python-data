@@ -18,10 +18,10 @@
 print("hi ! i am your bot")
 g=input('Enter your gender if male  press m/M and for female press f/F=>')
 if g==m:
-	name_m=input('Hi! Mr. whats your good  name=>')
-    print("great ",name_m)
+	namem=input('Hi! Mr. whats your good  name=>')
+	print("great ")
 else:
-    name_f=input("hello young lady can i get your name=>")
-    print("ok ",name_f)
+	# namef=input("hello young lady can i get your name=>")
+    print("ok")
 
 
