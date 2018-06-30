@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a326cdb4-1b42-4e81-a3e6-a9db19c069ca" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/regular expression/extract_userid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regular expression/optional.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regular expression/retrieve word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regular expression/split.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,69 +12,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6114754">
-      <split-first>
-        <splitter split-orientation="horizontal" split-proportion="0.46282974">
-          <split-first>
-            <leaf>
-              <file leaf-file-name="extract_userid.py" pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/regular expression/extract_userid.py">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="333">
-                      <caret line="26" lean-forward="true" selection-start-line="24" selection-end-line="26" />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-              <file leaf-file-name="retrieve word.py" pinned="false" current-in-tab="false">
-                <entry file="file://$PROJECT_DIR$/regular expression/retrieve word.py">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="128">
-                      <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-              <file leaf-file-name="split.py" pinned="false" current-in-tab="false">
-                <entry file="file://$PROJECT_DIR$/regular expression/split.py">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="64">
-                      <caret line="8" selection-start-line="8" selection-end-line="8" />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-            </leaf>
-          </split-first>
-          <split-second>
-            <leaf>
-              <file leaf-file-name="split.py" pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/regular expression/split.py">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="160">
-                      <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-            </leaf>
-          </split-second>
-        </splitter>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="regular_expression_practice.py" pinned="false" current-in-tab="true">
-            <entry file="file://E:/python acadview first write here then move it to git folder/regular_expression_practice.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="335">
-                  <caret line="38" column="18" lean-forward="true" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file leaf-file-name="extract_userid.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/regular expression/extract_userid.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="26" lean-forward="true" selection-start-line="24" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="split.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/regular expression/split.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -109,12 +62,13 @@
         <option value="$PROJECT_DIR$/regular expression/retrieve word.py" />
         <option value="E:/python acadview first write here then move it to git folder/regular_expression_practice.py" />
         <option value="$PROJECT_DIR$/regular expression/extract_userid.py" />
-        <option value="$PROJECT_DIR$/regular expression/split.py" />
         <option value="$PROJECT_DIR$/regular expression/optional.py" />
+        <option value="$PROJECT_DIR$/regular expression/split.py" />
+        <option value="$PROJECT_DIR$/regular expression/l;'.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="683" />
     <option name="width" value="683" />
     <option name="height" value="738" />
@@ -164,7 +118,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.split">
+  <component name="RunManager" selected="Python.l;'">
     <configuration name="extract_userid" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="2nd year last python training(git)" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -183,19 +137,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="find output" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="l;'" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="2nd year last python training(git)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classes and modules-2" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Mohit\AppData\Local\Programs\Python\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/regular expression" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classes and modules-2/find output.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regular expression/l;'.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,19 +210,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.find output" />
       <item itemvalue="Python.regular_expression_practice" />
       <item itemvalue="Python.extract_userid" />
       <item itemvalue="Python.retrieve word" />
       <item itemvalue="Python.split" />
+      <item itemvalue="Python.l;'" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.l;'" />
         <item itemvalue="Python.split" />
         <item itemvalue="Python.retrieve word" />
         <item itemvalue="Python.regular_expression_practice" />
         <item itemvalue="Python.extract_userid" />
-        <item itemvalue="Python.find output" />
       </list>
     </recent_temporary>
   </component>
@@ -286,15 +240,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1374" height="746" extended-state="6" />
+    <frame x="-4" y="-4" width="1374" height="746" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.1068814" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1068814" />
       <window_info anchor="bottom" id="TODO" order="5" />
       <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" weight="0.32986626" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="8" />
-      <window_info active="true" anchor="bottom" x="687" y="23" width="675" height="741" id="Run" order="10" side_tool="true" visible="true" weight="0.35458788" />
+      <window_info anchor="bottom" x="687" y="23" width="675" height="741" id="Run" order="10" side_tool="true" weight="0.35458788" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32986626" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -402,20 +356,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/regular expression/retrieve word.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/regular expression/extract_userid.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="26" lean-forward="true" selection-start-line="24" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://E:/python acadview first write here then move it to git folder/regular_expression_practice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="335">
@@ -430,10 +370,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/regular expression/retrieve word.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/regular expression/extract_userid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="26" lean-forward="true" selection-start-line="24" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/regular expression/split.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        <state relative-caret-position="144">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/regular expression/l;'.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
         </state>
       </provider>
     </entry>

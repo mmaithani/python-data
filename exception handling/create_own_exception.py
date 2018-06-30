@@ -2,8 +2,8 @@
 # that warns the user when they have entered age less than 18. The code must keep 
 # taking input till the user enters the appropriate age number(less than 18). 
 
-class AgeTooSmallError(Exception):
-	pass
+class AgeTooSmallError(Exception): #inherit exception into class 'agetoosmallerror' 
+	pass                           #we have nothing to write here so we use pass for empty class
 age=0
 while age<18:
 	age=int(input("enter your age=>"))
