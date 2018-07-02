@@ -8,5 +8,11 @@
 
 #Ans.1-
 
-import pymysql as py
-import
+import pymysql
+db=pymysql.connect("localhost","root","mamipapasumit81","acad_assign")
+cursor=db.cursor()
+cursor.execute("create table book(userid int,titleid int,location char(25),genre int)")
+cursor.execute("create table title(titleid int,title int,publisherid char(20),publisher_year int)")
+db.close()
+
+
