@@ -4,7 +4,7 @@ n=[0,0,0,0]
 n[0]=int(input("Enter the element of 1st position="))
 n[1]=int(input("Enter the element of 2st position="))
 n[2]=int(input("Enter the element of 3st position="))
-n[3]=int(input("Enter the element of 4st position="))
+n[3]=int(input("Ennter the element of 4st position="))
 print(n)
 
 #Q.2- Add the following list to above created list:
