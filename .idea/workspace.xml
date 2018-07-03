@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a326cdb4-1b42-4e81-a3e6-a9db19c069ca" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/databases in python/2nd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/databases in python/3rd ques.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/databases in python/create_database.py" beforeDir="false" afterPath="$PROJECT_DIR$/databases in python/create_database.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,31 +13,9 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="create_database.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/databases in python/create_database.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2nd.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/databases in python/2nd.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3rd ques.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/databases in python/3rd ques.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-            </state>
-          </provider>
+      <file leaf-file-name="box.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gui(tkinter-1)/box.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -81,6 +56,7 @@
         <option value="$PROJECT_DIR$/databases in python/create_database.py" />
         <option value="$PROJECT_DIR$/databases in python/2nd.py" />
         <option value="$PROJECT_DIR$/databases in python/3rd ques.py" />
+        <option value="$PROJECT_DIR$/gui(tkinter-1)/box.py" />
       </list>
     </option>
   </component>
@@ -97,6 +73,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,13 +84,12 @@
             <path>
               <item name="python-data" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-data" type="462c0819:PsiDirectoryNode" />
-              <item name="databases in python" type="462c0819:PsiDirectoryNode" />
+              <item name="gui(tkinter-1)" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -138,7 +114,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.create_database">
+  <component name="RunManager" selected="Python.box">
     <configuration name="2nd" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="2nd year last python training(git)" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,6 +128,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/databases in python/2nd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="box" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2nd year last python training(git)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gui(tkinter-1)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui(tkinter-1)/box.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,24 +187,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="retrieve word" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="2nd year last python training(git)" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\Mohit\AppData\Local\Programs\Python\Python36\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/regular expression" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regular expression/retrieve word.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="split" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="2nd year last python training(git)" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -230,19 +206,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.retrieve word" />
       <item itemvalue="Python.split" />
       <item itemvalue="Python.l;'" />
       <item itemvalue="Python.create_database" />
       <item itemvalue="Python.2nd" />
+      <item itemvalue="Python.box" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.box" />
         <item itemvalue="Python.create_database" />
         <item itemvalue="Python.2nd" />
         <item itemvalue="Python.l;'" />
         <item itemvalue="Python.split" />
-        <item itemvalue="Python.retrieve word" />
       </list>
     </recent_temporary>
   </component>
@@ -261,15 +237,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15550596" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15550596" />
       <window_info anchor="bottom" id="TODO" order="5" />
-      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" weight="0.327787" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.65178573" side_tool="true" weight="0.32847896" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="8" />
-      <window_info anchor="bottom" x="687" y="23" width="675" height="741" id="Run" order="10" sideWeight="0.65178573" side_tool="true" visible="true" weight="0.32847896" />
+      <window_info anchor="bottom" x="687" y="23" width="675" height="741" id="Run" order="10" sideWeight="0.65178573" side_tool="true" weight="0.32847896" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.3482143" visible="true" weight="0.32847896" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.3482143" visible="true" weight="0.3273906" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.39970282" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -284,7 +261,33 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/databases in python/create_database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/databases in python/3rd ques.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/databases in python/2nd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/databases in python/create_database.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -434,29 +437,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/databases in python/2ndques.py">
+    <entry file="file://$PROJECT_DIR$/databases in python/2ndques.py" />
+    <entry file="file://$PROJECT_DIR$/databases in python/create_database.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/databases in python/3rd ques.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/databases in python/2nd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+        <state relative-caret-position="192">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/databases in python/create_database.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/databases in python/3rd ques.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/gui(tkinter-1)/box.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
