@@ -6,14 +6,11 @@ import tkinter
 import sys
 from tkinter import *
 root=Tk()
-x=0
-frame=Frame(root)
-frame.pack()
 
 t = IntVar()
 t.set(0)
-def click():
 
+def click():
 	if(t.get()==0):
 		label.config(text="you are buffalo")
 		t.set(1)
@@ -21,7 +18,6 @@ def click():
 		label.config(text="you are awesome")
 		t.set(0)
 	
-
 label=Label(root,text="hello ")
 label.pack()
 
